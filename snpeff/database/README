@@ -1,1 +1,6 @@
+Used snpEff version SnpEff 3.1i (build 2012-12-12), by Pablo Cingolani
+
+Custom database (TpallidumNC0214902) created and used as input for SNP effect analysis 
+
+command: java -Xmx2G -jar snpEff.jar TpallidumNC0214902 -ud 100 -i txt -o txt Nichols-snpTableForSnpEff.tsv > snpEff-Nichols.out 
 
