@@ -1,0 +1,7 @@
+Used snpEff version SnpEff 3.1i (build 2012-12-12), by Pablo Cingolani
+
+command: java -Xmx2G -jar snpEff.jar TpallidumNC0214902 -ud 100 -i txt -o txt Nichols-snpTableForSnpEff.tsv > snpEff-Nichols.out 
+
+Nichols-snpTableForSnpEff.tsv file was generated from initial comparative SNP analysis using MultiVCFAnalyzer v0.85.2 (see Supplementary Section 7.3 SNP Calling)
+
+snpEff-Nichols.out was used to for a second MultiVCFAnalyzer run in order to integrate all SNP effects into the comparative SNP table
