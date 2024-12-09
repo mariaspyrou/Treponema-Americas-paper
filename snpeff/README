@@ -4,4 +4,4 @@ command: java -Xmx2G -jar snpEff.jar TpallidumNC0214902 -ud 100 -i txt -o txt Ni
 
 Nichols-snpTableForSnpEff.tsv file was generated from initial comparative SNP analysis using MultiVCFAnalyzer v0.85.2 (see Supplementary Section 7.3 SNP Calling)
 
-snpEff-Nichols.out was used to for a second MultiVCFAnalyzer run in order to integrate all SNP effects into the comparative SNP table
+snpEff-Nichols.out was used for a second MultiVCFAnalyzer run in order to integrate all SNP effects into the comparative SNP table
